@@ -1,0 +1,15 @@
+main:
+  - title: "About"
+    url: /about
+  - title: "CV/Resume"
+    url: /cv
+  - title: "Presentations"
+    url: https://www.slideshare.net/countincognito
+
+sidebar:
+  - title: "Tutorials"
+    children:
+      - title: "Harmonicas"
+        url: /harmonicas
+      - title: "Open Source Licences in Business"
+        url: /open-source-licences-in-business
