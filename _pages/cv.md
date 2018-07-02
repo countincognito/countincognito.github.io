@@ -5,8 +5,11 @@ permalink: /cv
 ---
 ## Professional Experience
 
-* Software architect, technical lead and developer for 10+ years in areas including: academia, investment management, energy industry, retail, transport, healthcare, mobile, and charity
-* DotNet (and DotNet Core) and Azure specialist with a passion for robust full-stack system design and Agile product development
+* Software architect, technical lead, and developer for 10+ years
+* Experience in many areas including: academia, investment management, energy industry, retail, transport, healthcare, mobile, and charity
+* DotNet, DotNet Core, and Azure specialist with a passion for robust full-stack system design and Agile product development
+* Advocate of SOA, microservices, containers, TDD/BDD, k8s, Service Fabric, infrastructure-as-code, SOLID, DRY, and DAD
+* For some examples of my coding style, please see my [GitHub account](https://github.com/countincognito)
 
 >...a great architect, veteran of the [IDesign] Method and mentor to many.
 >
@@ -24,5 +27,5 @@ permalink: /cv
 * [Open Source](https://opensource.org/)/[Free](https://www.gnu.org/) software enthusiast
 * [Occasional speaker](https://www.slideshare.net/countincognito)
 * Blues harmonica player
-* Consumate extreme-chilihead
+* Consummate extreme-chilihead
 * Perpetual wearer of hats
