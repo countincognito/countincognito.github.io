@@ -5,7 +5,7 @@ permalink: /cv
 ---
 ## Professional Experience
 
-* CTO, solutions architect, technical lead, and software developer for 12+ years
+* CTO, solutions architect, technical lead, and software developer
 * Experience in many areas including: academia, investment management, construction, energy industry, retail, transport, healthcare, mobile, and charity
 * DotNet/DotNet Core and Azure specialist with a passion for robust full-stack system design and Agile product development
 * Advocate of SOA, microservices, containers, TDD/BDD, k8s, Service Fabric, infrastructure-as-code, SOLID, DRY, and DAD
