@@ -30,7 +30,7 @@ Also, note that this principle emphasises the delivery of _valuable_ software "e
 
 **Meaning:** break your project up into manageable deliverables, keep your timescales rapid and focus on meeting your targets. Stretching your timescales out to multiple months, or even years, before you have anything worth delivering [is no good for your customers or for your team](https://en.wikipedia.org/wiki/Duke_Nukem_Forever).
 
-**Note:** this principle emphasises the delivery of _working_ software "frequently" (i.e. [regularly or habitually](https://en.oxforddictionaries.com/definition/frequently)). In this case, "working" simply means [functioning or able to function](https://en.oxforddictionaries.com/definition/working)(i.e. not broken). If your software project is accumulating bugs and cutting corners for the mere sake of expediency, then all you are doing is compounding technical debt. Contrast this with Number 1.
+**Note:** this principle emphasises the delivery of _working_ software "frequently" (i.e. [regularly or habitually](https://en.oxforddictionaries.com/definition/frequently)). In this case, "working" simply means [functioning or able to function](https://en.oxforddictionaries.com/definition/working) (i.e. not broken). If your software project is accumulating bugs and cutting corners for the mere sake of expediency, then all you are doing is compounding technical debt. Contrast this with Number 1.
 
 ## Number 4
 
