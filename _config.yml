@@ -136,7 +136,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
 
   # _posts
@@ -150,7 +150,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
       permalink: /blog/:year/:month/:day/:title
 
@@ -164,7 +164,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       excerpt_separator: ""
 
   - scope:
@@ -177,5 +177,5 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       excerpt_separator: ""
